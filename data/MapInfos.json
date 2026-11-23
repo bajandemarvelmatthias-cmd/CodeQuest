@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"House 1","order":2,"parentId":2,"scrollX":622.6666666666666,"scrollY":392,"quick":false},
+{"id":2,"expanded":true,"name":"Village 1","order":1,"parentId":0,"scrollX":665.3333333333334,"scrollY":704,"quick":false},
+{"id":3,"expanded":false,"name":"Inn","order":5,"parentId":2,"scrollX":570,"scrollY":441.59999999999997,"quick":false},
+{"id":4,"expanded":true,"name":"Chief’s House 1F","order":8,"parentId":2,"scrollX":633.3333333333334,"scrollY":413.3333333333333,"quick":false},
+{"id":5,"expanded":false,"name":"Chief’s House 2F","order":9,"parentId":2,"scrollX":622.6666666666666,"scrollY":413.3333333333333,"quick":false},
+{"id":6,"expanded":false,"name":"Bar","order":7,"parentId":2,"scrollX":560.4,"scrollY":362.4,"quick":false},
+{"id":7,"expanded":true,"name":"Weapon & Armor Shop","order":6,"parentId":2,"scrollX":560.4,"scrollY":352.8,"quick":false},
+{"id":8,"expanded":false,"name":"House 2","order":3,"parentId":2,"scrollX":560.4,"scrollY":362.4,"quick":false},
+{"id":9,"expanded":false,"name":"Item Shop","order":4,"parentId":2,"scrollX":560.4,"scrollY":362.4,"quick":false},
+{"id":10,"expanded":false,"name":"Cutscene","order":10,"parentId":0,"scrollX":622.6666666666666,"scrollY":402.6666666666667,"quick":false}
+]
